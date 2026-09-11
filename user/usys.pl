@@ -36,3 +36,7 @@ entry("getpid");
 entry("sbrk");
 entry("sleep");
 entry("uptime");
+entry("rename");
+entry("yield");
+entry("seccomp_ctl");
+entry("seccomp_getlog");
